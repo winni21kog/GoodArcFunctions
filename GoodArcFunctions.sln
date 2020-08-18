@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodArcFunctions", "GoodArcFunctions\GoodArcFunctions.csproj", "{C182EC00-1E36-4730-A978-5EE54EC04800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C182EC00-1E36-4730-A978-5EE54EC04800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C182EC00-1E36-4730-A978-5EE54EC04800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C182EC00-1E36-4730-A978-5EE54EC04800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C182EC00-1E36-4730-A978-5EE54EC04800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1A91DE9-1047-4BAF-A0A3-E5CC5D1D4656}
+	EndGlobalSection
+EndGlobal
